@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tabbars</key>
+	<array>
+		<dict>
+			<key>ViewController</key>
+			<string>HomeViewController</string>
+			<key>NormalImg</key>
+			<string>icon首页</string>
+			<key>SelectedImg</key>
+			<string>icon首页_d</string>
+			<key>Title</key>
+			<string>首页</string>
+		</dict>
+		<dict>
+			<key>ViewController</key>
+			<string>StoreViewController</string>
+			<key>NormalImg</key>
+			<string>icon商城</string>
+			<key>SelectedImg</key>
+			<string>icon商城_d</string>
+			<key>Title</key>
+			<string>商城</string>
+		</dict>
+		<dict>
+			<key>ViewController</key>
+			<string>PublishViewController</string>
+			<key>NormalImg</key>
+			<string>publish</string>
+			<key>SelectedImg</key>
+			<string>publish</string>
+			<key>Title</key>
+			<string>发布</string>
+		</dict>
+		<dict>
+			<key>ViewController</key>
+			<string>MessageViewController</string>
+			<key>NormalImg</key>
+			<string>icon消息</string>
+			<key>SelectedImg</key>
+			<string>icon消息_d</string>
+			<key>Title</key>
+			<string>消息</string>
+		</dict>
+		<dict>
+			<key>ViewController</key>
+			<string>MyViewController</string>
+			<key>NormalImg</key>
+			<string>icon我的</string>
+			<key>SelectedImg</key>
+			<string>icon我的_d</string>
+			<key>Title</key>
+			<string>我的</string>
+		</dict>
+	</array>
+</dict>
+</plist>
